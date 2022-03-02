@@ -47,7 +47,8 @@ Los bloques rojos serán de ayuda para realizar un cambio de pantalla, estos se 
 
 (imagen2)
 
-Procedimiento:
+
+3.- Procedimiento
 
 
 Primeramente, debemos ingresar al sitio de app inventor en su sitio web y vamos al apartado de crear una app.
@@ -91,18 +92,30 @@ multiplicación.
 (paso11)
 
 
-RESULTADOS
+4.- Resultados
+
 
 Para observar los resultados debemos ir a la parte de conectar para utilizarla en el celular.
 
+5.- Video
 
 
 
 
-Conclusiones:
+
+6.- Conclusiones
 
 - Las herramientas que se utilizaron son los user interface de app inventor y también los bloques de colores con diferentes funciones para la cual nos ayuda a ver resultados, botones de cálculo y pantallas de cada operación.
 
 - Los valores serán determinados en el apartado de bloques de la aplicación donde se programará, tal que cambiemos los títulos de cada herramienta visual y las constantes que se deben utilizar.
 
 - Modificamos los colores y el centrado de las palabras de cada operación, y establecemos los títulos de cada uno con sus respectivas funciones dentro de las pantallas.
+
+
+7.- Bibliografia.
+
+- EcuRed. (s. f.). MIT App Inventor - EcuRed. Ecu Red. Recuperado 2 de marzo de 2022, de https://www.ecured.cu/MIT_App_Inventor
+
+- Bustamante, E. G. (2021, 2 noviembre). ¿Qué es App Inventor y para qué sirve? Spacetechies. Recuperado 2 de marzo de 2022, de https://www.spacetechies.com/que-es-app-inventor-y-para-que-sirve/
+
+- Licer, A. L. N. (2014, 13 enero). ¿Qué es el App Inventor? ¿Para qué sirve? APP Moviles. Recuperado 2 de marzo de 2022, de https://appmoviles.net/que-es-el-app-inventor-para-que-sirve/
