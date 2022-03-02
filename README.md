@@ -41,11 +41,11 @@ Los bloques que se utilizaron son:
 El bloque de accionamiento del botón produciendo un set del método label, ya que con los bloques tipo texto actuaran como nuestro resultado.
 Los bloques azules son aquellos para operaciones matemáticas y lo amarillos para acciones, como antes mencionado se dividen en colores las operaciones que se pueden hacer tanto lógicas, listas y diccionarios.
 
-(imagen1)
+![](imageneees/ejem1.png)
 
 Los bloques rojos serán de ayuda para realizar un cambio de pantalla, estos se utilizan para que se organice de mejor manera la distribución de funciones del programa.
 
-(imagen2)
+![](imageneees/ejem2.png)
 
 
 3.- Procedimiento
@@ -53,49 +53,63 @@ Los bloques rojos serán de ayuda para realizar un cambio de pantalla, estos se 
 
 Primeramente, debemos ingresar al sitio de app inventor en su sitio web y vamos al apartado de crear una app.
 
-(paso1)
+![](imageneees/paso1.png)
 
 Se nos desplegara una ventana donde podemos ver todos nuestros proyectos en una lista, pero para iniciar damos click en nuevo proyecto, cabe recalcar que l a pagina podemos tenerla en español o en inglés, pero como dicen en las buenas prácticas de programación el lenguaje que se utiliza generalmente es el inglés.
 
-(paso2)
+![](imageneees/paso2.png)
 
 En este espacio veremos nuestra interfaz vista en un smartphone, por lo cual aquí únicamente podemos utilizar las diversas herramientas para modificar la interfaz tanto botones o como textos.
+
+
 Creamos nuestra interfaz para la conversión de fasores, con sus botones para cambiar a otra pestaña o ventana
-(paso3)
+
+![](imageneees/paso3.png)
 
 Aquí podemos ver en el apartado del diagrama de bloques para programar lo que va hacer cada una de las herramientas utilizadas.
 
-(paso4)
+![](imageneees/paso4.png)
 
 En el espacio de arriba del proyecto podemos crear nuevas ventanas para la organización del software.
 
-(paso5)
+![](imageneees/paso5.png)
 
 Tenemos un menú de opciones para las diferentes operaciones con fasores, si son polares o rectangulares, y también para regresar al inicio para la transformación de estas.
 
-(paso6)
+![](imageneees/paso6.png)
 
-(paso7)
+![](imageneees/paso7.png)
 
 En esta ventana tenemos las operaciones con fasores en su forma rectangular, la cual son números complejos con su parte real, teniendo operaciones como suma, resta, multiplicación y 
 división.
 
-(paso8)
+![](imageneees/paso8.png)
 
-(paso9)
+
+![](imageneees/paso9.png)
 
 En este apartado tenemos las operaciones con fasores polares las cuales tienen un módulo y un ángulo, estos fasores únicamente pueden hacer las operaciones de división y 
 multiplicación.
 
-(paso10)
+![](imageneees/paso10.png)
 
-(paso11)
+![](imageneees/paso11.png)
 
 
 4.- Resultados
 
 
 Para observar los resultados debemos ir a la parte de conectar para utilizarla en el celular.
+
+![](imageneees/cosa2.png)
+
+![](imageneees/cosa3.png)
+
+![](imageneees/cosa4.png)
+
+![](imageneees/cosa5.png)
+
+
 
 5.- Video
 
