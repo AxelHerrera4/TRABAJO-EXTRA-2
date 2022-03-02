@@ -48,6 +48,11 @@ Los bloques rojos serán de ayuda para realizar un cambio de pantalla, estos se 
 ![](imageneees/ejem2.png)
 
 
+
+![](imageneees/mapa_1.jpeg)
+
+
+
 3.- Procedimiento
 
 
