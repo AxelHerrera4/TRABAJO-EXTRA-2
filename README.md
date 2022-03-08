@@ -116,7 +116,7 @@ Para observar los resultados debemos ir a la parte de conectar para utilizarla e
 
 APK DEL PROGRAMA:
 
-http://ai2.appinventor.mit.edu/#5347719966490624
+https://drive.google.com/file/d/1CAaL0wQd0JyNR7SigKqKArd3LlCFKo2N/view?usp=sharing
 
 
 
